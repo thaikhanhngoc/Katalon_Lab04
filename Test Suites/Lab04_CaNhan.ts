@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Lab04_CaNhan</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>287205a8-b716-4809-b5de-caa24c4d6bcf</testSuiteGuid>
+   <testCaseLink>
+      <guid>08a9b79c-d44a-40da-ba17-e4af128bfc73</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lab04_CaNhan/TestUseDataFile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7403edba-8000-4b17-a13f-dfb71eba647f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Lab04_CaNhan</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7403edba-8000-4b17-a13f-dfb71eba647f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>7024aabc-8494-42c6-a960-56106e23922f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7403edba-8000-4b17-a13f-dfb71eba647f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>dff707f6-f09d-4bbe-9283-5d57823df8df</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7403edba-8000-4b17-a13f-dfb71eba647f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>required</value>
+         <variableId>1114b8ca-ef14-4bc2-95b7-56afec456195</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

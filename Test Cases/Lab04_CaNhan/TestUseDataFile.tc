@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sử Dụng Data File kết hợp Excel</description>
+   <name>TestUseDataFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7976560-83a6-4a5e-9aa1-f65dfbace621</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7024aabc-8494-42c6-a960-56106e23922f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dff707f6-f09d-4bbe-9283-5d57823df8df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1114b8ca-ef14-4bc2-95b7-56afec456195</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7024aabc-8494-42c6-a960-56106e23922f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dff707f6-f09d-4bbe-9283-5d57823df8df</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1114b8ca-ef14-4bc2-95b7-56afec456195</id>
+      <masked>false</masked>
+      <name>required</name>
+   </variable>
+</TestCaseEntity>
